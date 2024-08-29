@@ -1,2 +1,3 @@
 repo2 check
 repo2.1 check
+repo2.2 check
